@@ -60,7 +60,7 @@ It demonstrates my ability to create dynamic visualizations and extract actionab
 
 ---
 
-## 📸 Sample Dashboards  
+## 📸 Screenshots  
 
 ### Sales Dashboard  
 ![Dashboard](https://github.com/jeet787/AdventureWorks_PowerBI_Project/blob/main/Images/Dashboard.png) 
