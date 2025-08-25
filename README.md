@@ -1,5 +1,6 @@
 # Adventure Works Sales Dashboard  
 **By: Satyajeet Katkar**
+![Banner](https://github.com/jeet787/AdventureWorks_PowerBI_Project/blob/main/Images/BannerImage.png)
 
 ---
 
@@ -16,6 +17,12 @@ The dashboard provides insights into:
 It demonstrates my ability to create dynamic visualizations and extract actionable insights to support **business decision-making**.  
 
 ---
+## 📂 Project Files  
+- `Adventure Works Data Analysis.pbix` → Power BI project file  
+- `Dashboard.png` → Snapshot of sales dashboard  
+- `Map.png` → Snapshot of geographical orders map
+---- 
+
 
 ## 🚀 Key Features of the Dashboard  
 
@@ -60,13 +67,10 @@ It demonstrates my ability to create dynamic visualizations and extract actionab
 
 ### Orders by Geography  
 ![Map](https://github.com/jeet787/AdventureWorks_PowerBI_Project/blob/main/Images/Map.png)
----
 
-## 📂 Project Files  
-- `Adventure Works Data Analysis.pbix` → Power BI project file  
-- `Dashboard.png` → Snapshot of sales dashboard  
-- `Map.png` → Snapshot of geographical orders map  
+### Schema
+![Schema](https://github.com/jeet787/AdventureWorks_PowerBI_Project/blob/main/Images/Schema.png)
 
 ---
 
-✨ *This project was a great learning experience, and I look forward to building more advanced BI solutions.*  
+✨ *This project was a great learning experience, and I look forward to building more Power BI solutions.*  
